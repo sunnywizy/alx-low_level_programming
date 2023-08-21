@@ -1,0 +1,1 @@
+This directory has to deal with everything oncerning arrays in C Programming.
