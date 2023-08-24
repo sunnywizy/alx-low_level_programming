@@ -1,0 +1,1 @@
+This directory has to deal with everything concerning Pointer, Arrays and String in C programming.
