@@ -1,0 +1,1 @@
+THis directory also has to deal with more in pointer, arrays and strings in C porgrammming language.
