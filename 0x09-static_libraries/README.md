@@ -1,1 +1,0 @@
-This is concerning static task in c programming language.
