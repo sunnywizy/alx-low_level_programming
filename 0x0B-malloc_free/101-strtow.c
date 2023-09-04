@@ -20,12 +20,12 @@ void ch_free_grid(char **grid, unsigned int height)
 }
 
 /**
- * strtoq - splits a string into words.
+ * strtow - splits a string into words.
  * @str: string.
  *
  * Return: pointer of an array of integers
  */
-char **Strtoq(char *str)
+char **strtow(char *str)
 {
 	char **aout;
 	unsigned int c, height, i, j, a1;
