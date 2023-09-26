@@ -7,7 +7,7 @@
  *
  * Return: head node's data.
  */
-int pop_listint(listint_t **head)
+int listint_t *get_nodeint_at_index(listint_t *head, unsigned int index)
 {
 	int hnode;
 	listint_t *h;
