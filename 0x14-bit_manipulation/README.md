@@ -1,1 +1,1 @@
-This will be updated later on in the future.
+This README file will updated once the projected is done.
