@@ -10,13 +10,13 @@ void print_binary(unsigned long int n)
 {
     if (n > 0)
     {
-        // If 'n' is greater than 0, continue shifting and printing binary digits
+        /*If 'n' is greater than 0, continue shifting and printing binary digits*/
         print_binary(n >> 1);
-        _putchar((n & 1) + '0'); // Extract and print the least significant bit
+        _putchar((n & 1) + '0'); /*Extract and print the least significant bit*/ 
     }
     else
     {
-        // If 'n' is 0, print a single '0' character
+        /*If 'n' is 0, print a single '0' character*/ 
         _putchar('0');
     }
 }
