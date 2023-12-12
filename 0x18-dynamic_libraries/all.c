@@ -7,7 +7,7 @@
  */
 int add(int a, int b)
 {
-    return (a + b);
+        return (a + b);
 }
 
 /* sub - To sub two integer
@@ -17,7 +17,7 @@ int add(int a, int b)
  */
 int sub(int a, int b)
 {
-    return (a - b);
+        return (a - b);
 }
 
 /* mul - To mul two integer
@@ -27,7 +27,7 @@ int sub(int a, int b)
  */
 int mul(int a, int b)
 {
-    return (a * b);
+        return (a * b);
 }
 
 /* div - To div two integer
@@ -37,7 +37,7 @@ int mul(int a, int b)
  */
 int div(int a, int b)
 {
-    return (a / b);
+        return (a / b);
 }
 
 /* add - To add two integer
@@ -47,5 +47,5 @@ int div(int a, int b)
  */
 int mol(int a, int b)
 {
-    return (a % b);
+        return (a % b);
 }
